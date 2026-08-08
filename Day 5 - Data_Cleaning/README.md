@@ -34,8 +34,6 @@ The dataset was loaded from a CSV file:
 ## Data Cleaning Steps
 
 ### 1. Import Pandas
-
-```python
 import pandas as pd
 
 ### 2. Load the Dataset
